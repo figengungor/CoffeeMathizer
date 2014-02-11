@@ -51,7 +51,7 @@ function onAbout(event)
 	In order to get high scores, you need to solve the inequality by applying fewer number of operations. 
 	For each inequality solved, extra time is given and by the time, in second half screen, you need to 
 	keep your energy high by drinking cup of coffee that drops from the sky. If you miss 4 cups of coffee, 
-	then the game is over. Multitouch feature is enabled, so you can use all your fingers on the screen.
+	then the game is over. In order to move character, you use accelerometer.
 	Good luck;)]]
 
 	aboutText = display.newEmbossedText(instructions, 0, H/2, W/2, 0, native.systemFont, 30)
